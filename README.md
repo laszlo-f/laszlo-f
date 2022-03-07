@@ -2,6 +2,7 @@
 - I’m interested in software engineering, data science, physics, chemistry, and renewable energy.
 - 📫 How to reach me: laszlo@laszlofrazer.com
 - I usually code in R, C, C++, and Bash.
+- Repositories: https://github.com/laszlo-f
 - https://www.linkedin.com/in/laszlo-frazer
 
 <!---
